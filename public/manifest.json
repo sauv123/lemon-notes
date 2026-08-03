@@ -1,0 +1,16 @@
+{
+  "name": "Lemon Notes",
+  "short_name": "Lemon Notes",
+  "description": "Squeeze the knowledge out of your notes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
